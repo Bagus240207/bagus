@@ -1,0 +1,2 @@
+# bagus
+WebGIS Kec. Girisubo
